@@ -1,0 +1,23 @@
+{
+  "title": "Shtn It",
+  "id": "shtnIt@pximg.xyz",
+  "version": "3.0.4",
+  "description": "Shtn any URL for free via the PXIMG image host.",
+  "main": "index.js",
+  "author": "pxgamer",
+  "engines": {
+    "firefox": ">=2.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ],
+  "preferences": [
+     {
+        "title": "Notifications Enabled",
+        "name":  "notificationsEnabled",
+        "type":  "bool",
+        "value": true
+     }
+  ]
+}
