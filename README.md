@@ -2,7 +2,7 @@
 
 Shtn any URL for free via the PXIMG image host.
 
-[![GitHub release](https://img.shields.io/github/release/PXgamer/pximg-shtn-extension-firefox.svg)](https://github.com/PXgamer/pximg-shtn-extension-firefox/releases/latest) [![Scrutinizer Build](https://img.shields.io/scrutinizer/build/g/PXgamer/pximg-shtn-extension-firefox.svg)](https://scrutinizer-ci.com/g/PXgamer/pximg-shtn-extension-firefox/build-status/master)
+[![GitHub release](https://img.shields.io/github/release/PXgamer/pximg-shtn-extension-firefox.svg)](https://github.com/PXgamer/pximg-shtn-extension-firefox/releases/latest) [![Scrutinizer Build](https://img.shields.io/scrutinizer/build/g/PXgamer/pximg-shtn-extension-firefox.svg)](https://scrutinizer-ci.com/g/PXgamer/pximg-shtn-extension-firefox/build-status/master) ![Scrutinizer](https://img.shields.io/scrutinizer/g/PXgamer/pximg-shtn-extension-firefox.svg)
 
 ## Install
 This extension can either be installed via [Add-ons for Firefox](https://addons.mozilla.org/firefox/addon/shtn-it/) or by installing via Firefox from a `.xpi` file.
