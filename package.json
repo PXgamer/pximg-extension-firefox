@@ -1,7 +1,7 @@
 {
   "title": "Shtn It",
   "id": "shtnIt@pximg.xyz",
-  "version": "3.0.4",
+  "version": "3.0.5",
   "description": "Shtn any URL for free via the PXIMG image host.",
   "main": "index.js",
   "author": "pxgamer",

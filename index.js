@@ -16,7 +16,7 @@ var button = buttons.ActionButton({
   onClick: handleClick
 });
 
-function handleClick(state) {
+function handleClick() {
 	var tabs = require("sdk/tabs");
 	shtnIt(tabs.activeTab.url);
 }
@@ -30,8 +30,8 @@ function shtnIt(url)
 	var shtnItResponse = Request({
 		url: "https://pximg.xyz/api/v2/shtn/create?url=" + url,
 		onComplete: function (response) {
-			textR = response.text;
-			parsed = JSON.parse(textR);
+			var textR = response.text;
+			var parsed = JSON.parse(textR);
 			returnData = parsed.Message.url;
 			clipboard.set(returnData);
 			if (prefList.prefs['notificationsEnabled'] == true) {
