@@ -17,7 +17,6 @@ var button = buttons.ActionButton({
 });
 
 function handleClick() {
-	var tabs = require("sdk/tabs");
 	shtnIt(tabs.activeTab.url);
 }
 
